@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="IRCTC Flight Automation Suite">
+    <test name="Flight Search Test">
+        <classes>
+            <class name="com.irctcFlight.tests.FlightSearchTest"/>
+        </classes>
+    </test>
+</suite>
